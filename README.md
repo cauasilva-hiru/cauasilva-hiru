@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/32286056/README.md)
-epository because its `README.md` (this file) appears on your GitHub profile.
+repository because its `README.md` (this file) appears on your GitHub profile.
 
 Olá 👋
 
