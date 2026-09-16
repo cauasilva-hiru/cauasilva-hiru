@@ -32,7 +32,7 @@ Voice assistant combining speech recognition with the Claude API for spoken resp
 **[Wallpaper Engine on Linux](#)**
 Terminal script and GUI integration to run Wallpaper Engine (Steam/Proton) on Linux, including command-line wallpaper control.
 
-**[Guide: Dual Boot Windows + Linux](#)**
+**[Guide: Dual Boot Windows + Linux](https://github.com/cauasilva-hiru/dual-boot-guide)**
 Step-by-step documentation of a real dual boot install with a dedicated SSD, including NVIDIA and Mesa driver troubleshooting.
 
 ### 📫 Contact
